@@ -6,6 +6,8 @@ Various modifications to the [Subsonic music streamer][subwebsite]
 
 # Getting Started
 
+The mods are based on version 4.6 of subsonic-main.
+
 # Features
 
 - VLC Integration : VLC player type
