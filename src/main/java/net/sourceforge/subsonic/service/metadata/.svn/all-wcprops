@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/subsonic/!svn/ver/2689/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/subsonic/!svn/ver/2686/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/MetaData.java
+END
+FFmpegParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/FFmpegParser.java
+END
+DefaultMetaDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/DefaultMetaDataParser.java
+END
+JaudiotaggerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/JaudiotaggerParser.java
+END
+MetaDataParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/subsonic/!svn/ver/2689/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/MetaDataParserFactory.java
+END
+MetaDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/subsonic/!svn/ver/2689/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/service/metadata/MetaDataParser.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json
+END
+JSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/JSONObject.java
+END
+JSONString.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/JSONString.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/XML.java
+END
+JSONTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/JSONTokener.java
+END
+JSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/JSONArray.java
+END
+JSONException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/JSONException.java
+END
+XMLTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/1925/trunk/subsonic-main/src/main/java/org/json/XMLTokener.java
+END

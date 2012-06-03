@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/subsonic/!svn/ver/2359/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib
+END
+WikiTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib/WikiTag.java
+END
+EscapeJavaScriptTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib/EscapeJavaScriptTag.java
+END
+FormatBytesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib/FormatBytesTag.java
+END
+ParamTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib/ParamTag.java
+END
+UrlTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/subsonic/!svn/ver/2359/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/taglib/UrlTag.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/service/metadata
+END
+MetaDataParserTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/service/metadata/MetaDataParserTestCase.java
+END
+MediaFileTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/subsonic/!svn/ver/2685/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/service/metadata/MediaFileTestCase.java
+END

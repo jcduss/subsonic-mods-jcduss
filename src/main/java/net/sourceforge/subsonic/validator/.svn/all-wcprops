@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/subsonic/!svn/ver/2035/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/validator
+END
+DonateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/validator/DonateValidator.java
+END
+UserSettingsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/subsonic/!svn/ver/2035/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/validator/UserSettingsValidator.java
+END
+SavePlaylistValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/validator/SavePlaylistValidator.java
+END
+PasswordSettingsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/validator/PasswordSettingsValidator.java
+END

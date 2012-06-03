@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/subsonic/!svn/ver/2639/trunk/subsonic-main/src/main/webapp/xsd
+END
+shares_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/subsonic/!svn/ver/2328/trunk/subsonic-main/src/main/webapp/xsd/shares_example_1.xml
+END
+searchResult2_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/searchResult2_example_1.xml
+END
+nowPlaying_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/nowPlaying_example_1.xml
+END
+jukeboxPlaylist_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/subsonic/!svn/ver/2459/trunk/subsonic-main/src/main/webapp/xsd/jukeboxPlaylist_example_1.xml
+END
+error_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/xsd/error_example_1.xml
+END
+randomSongs_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/randomSongs_example_1.xml
+END
+albumList_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/2293/trunk/subsonic-main/src/main/webapp/xsd/albumList_example_1.xml
+END
+ping_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/2194/trunk/subsonic-main/src/main/webapp/xsd/ping_example_1.xml
+END
+musicFolders_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/xsd/musicFolders_example_1.xml
+END
+indexes_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/subsonic/!svn/ver/2406/trunk/subsonic-main/src/main/webapp/xsd/indexes_example_1.xml
+END
+playlist_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/playlist_example_1.xml
+END
+directory_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/directory_example_1.xml
+END
+searchResult_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/searchResult_example_1.xml
+END
+lyrics_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/subsonic/!svn/ver/1458/trunk/subsonic-main/src/main/webapp/xsd/lyrics_example_1.xml
+END
+directory_example_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/1891/trunk/subsonic-main/src/main/webapp/xsd/directory_example_2.xml
+END
+chatMessages_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/1423/trunk/subsonic-main/src/main/webapp/xsd/chatMessages_example_1.xml
+END
+subsonic-rest-api.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/subsonic/!svn/ver/2639/trunk/subsonic-main/src/main/webapp/xsd/subsonic-rest-api.xsd
+END
+jukeboxStatus_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/2499/trunk/subsonic-main/src/main/webapp/xsd/jukeboxStatus_example_1.xml
+END
+user_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/2529/trunk/subsonic-main/src/main/webapp/xsd/user_example_1.xml
+END
+podcasts_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/subsonic/!svn/ver/2219/trunk/subsonic-main/src/main/webapp/xsd/podcasts_example_1.xml
+END
+license_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/xsd/license_example_1.xml
+END
+playlists_example_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/xsd/playlists_example_1.xml
+END

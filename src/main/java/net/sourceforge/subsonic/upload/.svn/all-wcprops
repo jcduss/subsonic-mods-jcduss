@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/upload
+END
+MonitoredDiskFileItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/upload/MonitoredDiskFileItemFactory.java
+END
+MonitoredDiskFileItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/upload/MonitoredDiskFileItem.java
+END
+UploadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/upload/UploadListener.java
+END
+MonitoredOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/upload/MonitoredOutputStream.java
+END

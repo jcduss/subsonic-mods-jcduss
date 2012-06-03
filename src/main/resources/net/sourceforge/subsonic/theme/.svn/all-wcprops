@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/subsonic/!svn/ver/2543/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme
+END
+hd720.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hd720.properties
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/subsonic/!svn/ver/2543/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/default.properties
+END
+buuftheme.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/subsonic/!svn/ver/2472/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/buuftheme.properties
+END
+denim.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/1493/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/denim.properties
+END
+simplify.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/subsonic/!svn/ver/1478/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/simplify.properties
+END
+barents.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/barents.properties
+END
+hicon.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/1477/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hicon.properties
+END
+hd768.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hd768.properties
+END
+groove.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/subsonic/!svn/ver/1478/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/groove.properties
+END
+monochrome_black.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/subsonic/!svn/ver/1349/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/monochrome_black.properties
+END
+midnight.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/midnight.properties
+END
+hitech.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/subsonic/!svn/ver/1477/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hitech.properties
+END
+hd1080.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hd1080.properties
+END
+slick.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/1477/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/slick.properties
+END
+monochrome.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/1349/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/monochrome.properties
+END
+themes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/subsonic/!svn/ver/2472/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/themes.txt
+END
+hiconi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/subsonic/!svn/ver/1477/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/hiconi.properties
+END
+groove_simple.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/subsonic/!svn/ver/1478/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/groove_simple.properties
+END
+sandstorm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/sandstorm.properties
+END
+sonic.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/1706/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/sonic.properties
+END
+sonic_white.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/subsonic/!svn/ver/1706/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/sonic_white.properties
+END
+midnightfun.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/850/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/midnightfun.properties
+END
+black.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/649/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/black.properties
+END
+ripserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/subsonic/!svn/ver/850/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/ripserver.properties
+END
+coolandclean.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/subsonic/!svn/ver/850/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/coolandclean.properties
+END
+2010.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1451/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/2010.properties
+END
+sonic_blue.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/1706/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/sonic_blue.properties
+END
+pinkpanther.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/subsonic/!svn/ver/1479/trunk/subsonic-main/src/main/resources/net/sourceforge/subsonic/theme/pinkpanther.properties
+END

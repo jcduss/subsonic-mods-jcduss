@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/subsonic/!svn/ver/2691/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/2691/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/main.jsp
+END
+coverArt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/871/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/coverArt.jsp
+END
+advancedSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/advancedSettings.jsp
+END
+createShare.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/2424/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/createShare.jsp
+END
+internetRadioSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/internetRadioSettings.jsp
+END
+help.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/2642/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/help.jsp
+END
+left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/2676/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/left.jsp
+END
+transcodingSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/subsonic/!svn/ver/2546/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/transcodingSettings.jsp
+END
+generalSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/2429/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/generalSettings.jsp
+END
+userSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/subsonic/!svn/ver/2180/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/userSettings.jsp
+END
+playlist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/subsonic/!svn/ver/2359/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/playlist.jsp
+END
+head.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/2311/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/head.jsp
+END
+top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/subsonic/!svn/ver/1914/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/top.jsp
+END
+lyrics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/1428/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/lyrics.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/1100/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/index.jsp
+END
+allmusic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/subsonic/!svn/ver/1943/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/allmusic.jsp
+END
+networkSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/1443/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/networkSettings.jsp
+END
+accessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/accessDenied.jsp
+END
+donate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/2581/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/donate.jsp
+END
+playerSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/playerSettings.jsp
+END
+right.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/2635/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/right.jsp
+END
+podcastSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/1034/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/podcastSettings.jsp
+END
+status.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/status.jsp
+END
+videoPlayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/2287/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/videoPlayer.jsp
+END
+shareSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/subsonic/!svn/ver/2407/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/shareSettings.jsp
+END
+rating.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/875/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/rating.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/100/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/upload.jsp
+END
+db.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/subsonic/!svn/ver/1098/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/db.jsp
+END
+searchSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/2645/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/searchSettings.jsp
+END
+gettingStarted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/1226/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/gettingStarted.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/1240/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/home.jsp
+END
+changeCoverArt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/1902/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/changeCoverArt.jsp
+END
+podcast.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/podcast.jsp
+END
+musicFolderSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/musicFolderSettings.jsp
+END
+externalPlayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/2359/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/externalPlayer.jsp
+END
+loadPlaylist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/subsonic/!svn/ver/2370/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/loadPlaylist.jsp
+END
+more.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/1483/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/more.jsp
+END
+xspfPlaylist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/376/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/xspfPlaylist.jsp
+END
+helpToolTip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/subsonic/!svn/ver/819/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/helpToolTip.jsp
+END
+personalSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/subsonic/!svn/ver/1098/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/personalSettings.jsp
+END
+editTags.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/editTags.jsp
+END
+search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/subsonic/!svn/ver/2683/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/search.jsp
+END
+playAddDownload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/1979/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/playAddDownload.jsp
+END
+reload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/60/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/reload.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/subsonic/!svn/ver/2041/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/login.jsp
+END
+settingsHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/subsonic/!svn/ver/2315/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/settingsHeader.jsp
+END
+test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/subsonic/!svn/ver/2576/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/test.jsp
+END
+savePlaylist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/savePlaylist.jsp
+END
+avatarUploadResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/avatarUploadResult.jsp
+END
+podcastReceiver.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/2181/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/podcastReceiver.jsp
+END
+passwordSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/subsonic/!svn/ver/912/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/passwordSettings.jsp
+END
+include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/WEB-INF/jsp/include.jsp
+END

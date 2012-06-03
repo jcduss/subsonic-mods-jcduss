@@ -1,0 +1,24 @@
+MiniSub
+External Subsonic Music Player
+
+8/15/2011 .001 Initial Release
+8/15/2011 .003 Fixed song details on player 
+8/17/2011 .004 https fix, audio player tweaks
+8/24/2011 .005 playlist fixes, added auto playlists
+8/25/2011 .006 flexible layout, added buttons to player
+9/17/2011 .007 display tweaks for tablet, chat feature added
+9/17/2011 .008 pause/play button tweak
+9/30/2011 .009 now playing support, added back button to track list, other tweaks
+10/1/2011 .010 fix for subdirectory custom installs
+10/2/2011 .011 added play button from album list
+10/13/2011 .012 added Current Playlist, fixed some bugs
+10/14/2011 .013 moved auto playlists, album display tweaks
+10/14/2011 .014 multiple api call issue fix
+11/15/2011 .015 fixed search issue, added last.fm support from smrq
+11/22/2011 .016 single artist bug fix, added API error notification
+
+TO DO: (In no particular order...)
+- Jukebox Control
+- Download Links
+- Ratings
+- Chrome App???

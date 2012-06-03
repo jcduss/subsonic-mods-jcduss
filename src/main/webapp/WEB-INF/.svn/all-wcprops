@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/subsonic/!svn/ver/2698/trunk/subsonic-main/src/main/webapp/WEB-INF
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/subsonic/!svn/ver/2698/trunk/subsonic-main/src/main/webapp/WEB-INF/applicationContext-service.xml
+END
+subsonic-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/subsonic/!svn/ver/2695/trunk/subsonic-main/src/main/webapp/WEB-INF/subsonic-servlet.xml
+END
+applicationContext-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/subsonic/!svn/ver/2653/trunk/subsonic-main/src/main/webapp/WEB-INF/applicationContext-cache.xml
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/subsonic/!svn/ver/2618/trunk/subsonic-main/src/main/webapp/WEB-INF/dwr.xml
+END
+sub.tld
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/subsonic/!svn/ver/1270/trunk/subsonic-main/src/main/webapp/WEB-INF/sub.tld
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/subsonic/!svn/ver/2369/trunk/subsonic-main/src/main/webapp/WEB-INF/applicationContext-security.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/subsonic/!svn/ver/2311/trunk/subsonic-main/src/main/webapp/WEB-INF/web.xml
+END

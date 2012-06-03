@@ -1,0 +1,39 @@
+<!-- 
+<vlc id="rpn" param1="first_item 0 store" />
+<vlc id="rpn" param1="last_depth 0 store" />
+
+// jcduss : Subsonic - VLC integration
+// This page produces javscript to set variables with information
+// from VLC that will be read by Subsonic
+
+<vlc id="rpn" param1="vlc_counter 0 store" />
+<vlc id="foreach" param1="pl" param2="playlist" />
+  <vlc id="if" param1="pl.depth value last_depth value <" />
+    <vlc id="rpn" param1="pl.depth value ':' last_depth value 1 - ':' 1 strcat strcat strcat strcat" />
+    <vlc id="foreach" param1="the_final_countdown" param2="integer" />
+    <vlc id="end" />
+  <vlc id="end" />
+  <vlc id="if" param1="pl.type value 'Node' strcmp" />
+    <vlc id="rpn" param1="1 +" />
+    vlcSsiID[<vlc id="value" param1="vlc_counter" />] = <vlc id="value" param1="pl.index" />;
+    <vlc id="rpn" param1="vlc_counter vlc_counter value 1 + store" />
+    <vlc id="if" param1="pl.current" /> vlcSsiCurrID = <vlc id="value" param1="pl.index" />; <vlc id="end" /> 
+  <vlc id="else" />
+    <vlc id="if" param1="first_item value 0 ="/>
+      <vlc id="rpn" param1="first_item 1 store" />
+    <vlc id="end"/>
+    <vlc id="if" param1="pl.i_children 0 !=" />
+    <vlc id="else" />
+    <vlc id="end" />
+  <vlc id="end" />
+  <vlc id="rpn" param1="last_depth pl.depth value store" />
+<vlc id="end" />
+<vlc id="rpn" param1="0 ':' last_depth value 1 - ':' 1 strcat strcat strcat strcat" />
+<vlc id="foreach" param1="the_final_countdown" param2="integer" />
+<vlc id="end" />
+
+vlcSsiVolume = <vlc id="value" param1="volume" />;
+vlcSsiState = "<vlc id="value" param1="stream_state" />";
+vlcSsiPos = <vlc id="value" param1="stream_time" />;
+vlcSsiVersion = "<vlc id="value" param1="version" />";
+ -->

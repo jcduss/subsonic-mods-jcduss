@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/subsonic/!svn/ver/2717/trunk/subsonic-main/src/main/resources
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/subsonic/!svn/ver/2653/trunk/subsonic-main/src/main/resources/ehcache.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/subsonic/!svn/ver/343/trunk/subsonic-main/src/main/resources/log4j.properties
+END

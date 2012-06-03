@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/subsonic/!svn/ver/2697/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao
+END
+InternetRadioDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/subsonic/!svn/ver/834/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/InternetRadioDaoTestCase.java
+END
+DaoTestCaseBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/2607/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/DaoTestCaseBase.java
+END
+TranscodingDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/subsonic/!svn/ver/2546/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/TranscodingDaoTestCase.java
+END
+MusicFolderDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/subsonic/!svn/ver/2599/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/MusicFolderDaoTestCase.java
+END
+PlayerDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1007/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/PlayerDaoTestCase.java
+END
+PodcastDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/751/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/PodcastDaoTestCase.java
+END
+UserDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/2035/trunk/subsonic-main/src/test/java/net/sourceforge/subsonic/dao/UserDaoTestCase.java
+END

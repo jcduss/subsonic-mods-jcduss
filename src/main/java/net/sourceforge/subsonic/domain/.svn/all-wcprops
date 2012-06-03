@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/subsonic/!svn/ver/2696/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Theme.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/subsonic/!svn/ver/2644/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Cache.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/2683/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/SearchResult.java
+END
+PodcastEpisode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1944/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/PodcastEpisode.java
+END
+CoverArtScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/CoverArtScheme.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/subsonic/!svn/ver/2180/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/User.java
+END
+MediaLibraryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MediaLibraryStatistics.java
+END
+MediaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/subsonic/!svn/ver/2650/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MediaType.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/subsonic/!svn/ver/970/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Version.java
+END
+SearchCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1856/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/SearchCriteria.java
+END
+MusicFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/subsonic/!svn/ver/2691/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MusicFileInfo.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/subsonic/!svn/ver/1007/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Player.java
+END
+UserSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/1098/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/UserSettings.java
+END
+NATPMPRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/1712/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/NATPMPRouter.java
+END
+PodcastStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/PodcastStatus.java
+END
+Playlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/subsonic/!svn/ver/2696/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Playlist.java
+END
+Share.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/subsonic/!svn/ver/2316/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Share.java
+END
+AvatarScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/AvatarScheme.java
+END
+InternetRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/834/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/InternetRadio.java
+END
+TranscodeScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/1429/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/TranscodeScheme.java
+END
+MusicIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/subsonic/!svn/ver/2676/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MusicIndex.java
+END
+Transcoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/subsonic/!svn/ver/2546/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Transcoding.java
+END
+MusicFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/subsonic/!svn/ver/836/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MusicFolder.java
+END
+CacheElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/2615/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/CacheElement.java
+END
+Avatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Avatar.java
+END
+WeUPnPRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/subsonic/!svn/ver/1712/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/WeUPnPRouter.java
+END
+MediaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/subsonic/!svn/ver/2691/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/MediaFile.java
+END
+Router.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/subsonic/!svn/ver/1712/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/Router.java
+END
+SBBIRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/subsonic/!svn/ver/1712/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/SBBIRouter.java
+END
+VideoTranscodingSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/subsonic/!svn/ver/2017/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/VideoTranscodingSettings.java
+END
+PodcastChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1944/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/PodcastChannel.java
+END
+PlayerTechnology.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/subsonic/!svn/ver/821/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/PlayerTechnology.java
+END
+TransferStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/subsonic/!svn/ver/1504/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/TransferStatus.java
+END
+RandomSearchCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/subsonic/!svn/ver/758/trunk/subsonic-main/src/main/java/net/sourceforge/subsonic/domain/RandomSearchCriteria.java
+END

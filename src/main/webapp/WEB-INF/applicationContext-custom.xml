@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+<!-- Redefine filterInvocationInterceptor -->
+	 <bean id="filterInvocationInterceptor" class="org.acegisecurity.intercept.web.FilterSecurityInterceptor">
+        <property name="authenticationManager" ref="authenticationManager"/>
+        <property name="alwaysReauthenticate" value="true"/>
+        <property name="accessDecisionManager" ref="accessDecisionManager"/>
+        <property name="objectDefinitionSource">
+            <value>
+                PATTERN_TYPE_APACHE_ANT
+
+				/kbgateway.view=IS_AUTHENTICATED_ANONYMOUSLY
+
+                /login.view=IS_AUTHENTICATED_ANONYMOUSLY
+                /accessDenied.view=IS_AUTHENTICATED_ANONYMOUSLY
+                /videoPlayer.view=IS_AUTHENTICATED_ANONYMOUSLY
+                /externalPlayer.view=IS_AUTHENTICATED_ANONYMOUSLY
+                /coverArt.view=IS_AUTHENTICATED_ANONYMOUSLY
+                /stream/**=IS_AUTHENTICATED_ANONYMOUSLY
+                /style/**=IS_AUTHENTICATED_ANONYMOUSLY
+                /icons/**=IS_AUTHENTICATED_ANONYMOUSLY
+                /flash/**=IS_AUTHENTICATED_ANONYMOUSLY
+                /script/**=IS_AUTHENTICATED_ANONYMOUSLY
+
+                /personalSettings.view=ROLE_SETTINGS
+                /passwordSettings.view=ROLE_SETTINGS
+                /playerSettings.view=ROLE_SETTINGS
+
+                /generalSettings.view=ROLE_ADMIN
+                /advancedSettings.view=ROLE_ADMIN
+                /userSettings.view=ROLE_ADMIN
+                /musicFolderSettings.view=ROLE_ADMIN
+                /networkSettings.view=ROLE_ADMIN
+                /transcodingSettings.view=ROLE_ADMIN
+                /internetRadioSettings.view=ROLE_ADMIN
+                /searchSettings.view=ROLE_ADMIN
+                /podcastSettings.view=ROLE_ADMIN
+                /db.view=ROLE_ADMIN
+
+                /deletePlaylist.view=ROLE_PLAYLIST
+                /savePlaylist.view=ROLE_PLAYLIST
+
+                /download.view=ROLE_DOWNLOAD
+
+                /upload.view=ROLE_UPLOAD
+
+                /share.view=ROLE_SHARE
+
+                /changeCoverArt.view=ROLE_COVERART
+                /editTags.view=ROLE_COVERART
+
+                /setMusicFileInfo.view=ROLE_COMMENT
+
+                /podcastReceiverAdmin.view=ROLE_PODCAST
+
+                /**=IS_AUTHENTICATED_REMEMBERED
+            </value>
+        </property>
+    </bean>
+</beans>
