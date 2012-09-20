@@ -144,9 +144,7 @@ public class NowPlayingService {
                 username = StringUtil.toHtml(StringUtils.abbreviate(username, 25));
 
                 long minutesAgo = status.getMillisSinceLastUpdate() / 1000L / 60L;
-                // Arma : changed timeout to show only currently played items
-                //if (minutesAgo < 60) {
-                if (minutesAgo < 5) {
+                if (minutesAgo < 60) {
                     result.add(new NowPlayingInfo(username, artist, title, tooltip, streamUrl, albumUrl, lyricsUrl,
                             coverArtUrl, coverArtZoomUrl, avatarUrl, (int) minutesAgo));
                 }

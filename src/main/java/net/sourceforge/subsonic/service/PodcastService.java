@@ -480,13 +480,8 @@ public class PodcastService {
 
         int episodesToDelete = Math.max(0, episodes.size() - episodeCount);
         for (int i = 0; i < episodesToDelete; i++) {
-        	// Arma : disabled delete when episodeCount = 0 (default 10)
-        	if (episodeCount > 0 ) {
-        		deleteEpisode(episodes.get(i).getId(), true);
-        		LOG.info("Deleted old Podcast episode " + episodes.get(i).getUrl());
-        	} else {
-        		LOG.info("Deleted old Podcast episode " + episodes.get(i).getUrl() + " SKIPPED by Arma");
-            }
+            deleteEpisode(episodes.get(i).getId(), true);
+            LOG.info("Deleted old Podcast episode " + episodes.get(i).getUrl());
         }
     }
 

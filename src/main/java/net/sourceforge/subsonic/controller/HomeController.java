@@ -79,9 +79,7 @@ public class HomeController extends ParameterizableViewController {
 
         String listType = request.getParameter("listType");
         if (listType == null) {
-            //listType = "random";
-        	// Arma
-        	listType = "welcome";
+            listType = "random";        	
         }
 
         List<Album> albums;

@@ -85,8 +85,7 @@
     <div style="float:left;padding-right:1.5em">
         <h2 style="margin:0;">${model.songs[0].metaData.album}</h2>
     </div>
-    <!-- Arma : streaming by with ext player -->
-    <div class="detail" style="float:right">Streaming by <a href="http://subsonic.org/" target="_blank"><b>subsonic</b></a> for <a href="http://kiriboum.net/" target="_blank"><b>kiriboum.net</b></a></div>
+    <div class="detail" style="float:right">Streaming by <a href="http://subsonic.org/" target="_blank"><b>Subsonic</b></a></div>
 
     <div style="clear:both;padding-top:1em">
         <div id="placeholder">

@@ -8,4 +8,4 @@
 <c:set var="faviconImage"><spring:theme code="faviconImage"/></c:set>
 <link rel="stylesheet" href="<c:url value="/${styleSheet}"/>" type="text/css">
 <link rel="shortcut icon" href="<c:url value="/${faviconImage}"/>" type="text/css">
-<title>kiriboum - subsonic</title>
+<title>subsonic</title>

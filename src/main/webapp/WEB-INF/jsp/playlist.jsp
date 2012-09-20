@@ -308,21 +308,12 @@
     }
 
     function createPlayer() {
-        // arma : kiriboum theme with h2 color for web player
         var flashvars;
-        if ( "<spring:theme code="styleSheet"/>".indexOf("kiriboum") >= 0) {
-        	flashvars = {
-    	            backcolor:"<spring:theme code="backgroundColor"/>",
-    	            frontcolor:"306529",
-    				id:"player1"
-    	    };
-        } else {	            
-	        flashvars = {
+            flashvars = {
 	            backcolor:"<spring:theme code="backgroundColor"/>",
 	            frontcolor:"<spring:theme code="textColor"/>",
 				id:"player1"
 	        };
-        }
         
         var params = {
             allowfullscreen:"true",

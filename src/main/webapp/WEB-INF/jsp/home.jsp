@@ -5,8 +5,7 @@
     <%@ include file="head.jsp" %>
     <link href="<c:url value="/style/shadow.css"/>" rel="stylesheet">
     <c:if test="${model.listType eq 'random'}">
-    	<!--  Arma : changed refresh period -->
-        <meta http-equiv="refresh" content="240">
+        <meta http-equiv="refresh" content="20">
     </c:if>
     <script type="text/javascript" src="<c:url value="/script/prototype.js"/>"></script>
     <script type="text/javascript" src="<c:url value="/script/scriptaculous.js?load=effects"/>"></script>
@@ -21,7 +20,6 @@
     <h2>${model.welcomeSubtitle}</h2>
 </c:if>
 
-<!--  Header with links -->
 <h2>
     <c:forTokens items="random newest highest frequent recent users" delims=" " var="cat" varStatus="loopStatus">
         <c:if test="${loopStatus.count > 1}">&nbsp;|&nbsp;</c:if>
@@ -46,15 +44,10 @@
     <p class="warning"><fmt:message key="home.scan"/></p>
 </c:if>
 
-<!--  Arma -->
-<c:if test="${model.listType ne 'welcome'}">
-	<h2><fmt:message key="home.${model.listType}.text"/></h2>
-</c:if>
+<h2><fmt:message key="home.${model.listType}.text"/></h2>
 
 <table width="100%">
     <tr>
-    	<!--  Arma : start of album zone -->
-    	<c:if test="${model.listType ne 'welcome'}">
         <td style="vertical-align:top;">
 <c:choose>
 <c:when test="${model.listType eq 'users'}">
@@ -176,18 +169,13 @@
 </c:otherwise>
 </c:choose>
         </td>
-        </c:if>
-        <!--  Arma : end of album zone -->
-        <c:if test="${model.listType eq 'welcome'}">
-        <c:if test="${not empty model.welcomeMessage}">
-            <td style="vertical-align:top;width:20em">
-            <!--  Arma : style -->
-                <div style="padding:1em 0 0 0;">
-                    <sub:wiki text="${model.welcomeMessage}"/>
-                </div>
-            </td>
-        </c:if>
-        </c:if>
+            <c:if test="${not empty model.welcomeMessage}">
+                <td style="vertical-align:top;width:20em">
+                    <div style="padding:0 1em 0 1em;border-left:1px solid #<spring:theme code="detailColor"/>">
+                        <sub:wiki text="${model.welcomeMessage}"/>
+                    </div>
+                </td>
+            </c:if>
         </tr>
     </table>
 
