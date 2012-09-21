@@ -56,6 +56,13 @@ public class PlaylistService {
     private SettingsService settingsService;
     private MediaFileService mediaFileService;
 
+    // jcduss : vlc remote player
+    public void vlcResetPlaylistOperation() {
+        HttpServletRequest request = WebContextFactory.get().getHttpServletRequest();
+        HttpServletResponse response = WebContextFactory.get().getHttpServletResponse();
+        Player player = getCurrentPlayer(request, response);
+        player.getPlaylist().setVlcPlaylistOperation("");
+    }
     /**
      * Returns the playlist for the player of the current user.
      *
