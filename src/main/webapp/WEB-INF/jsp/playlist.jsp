@@ -228,7 +228,7 @@
 	        }
 	        setTimeout(vlcGet, songs.length*delta, "?control=play");
         } else if ( vlcAction == "onReload" ) {
-        	vlcGet("?control=stop");
+            vlcGet("?control=stop");
         	vlcGet("?control=empty");          	        
 		    for (i=0; i<songs.length; i++) {
 	        	setTimeout(vlcAddItem, i*delta, songs[i].streamUrl, songs[i].title);	    
