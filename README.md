@@ -1,6 +1,6 @@
 # Subsonic with VLC Player
 
-This is the webapp of the [Subsonic music streamer][subwebsite], with an added 'VLC Remote Player' player technology type.
+This is the webapp of the [Subsonic Media Streamer][subwebsite], with an added 'VLC Remote Player' player technology type.
 
 # Release information
 
@@ -19,15 +19,15 @@ VLC media player, on the device playing music
 - Tested with versions 0.8.1, 0.9, 1.0.x
 - Latest versions of VLC (2.0.X) have not yet been tested
 
+# Features
+
+More information [in the Subsonic Mods forum][subforumvlc]
+
+
 # Bugs
 - When loading a server playlist or random songs to the VLC player, the player playlist is loaded twice to VLC
 - The breadcrumb links displayed when browsing a collection displays a 'Music' link at the top level : this is broken (subsonic bug?)
 - Volume and start/stop controls are somewhat unstable, yet functional
 
-# Features
-
-More information [in the Subsonic Mods forum][[subforumvlc]]
-
-
 [subwebsite]: http://subsonic.org/.
-[subforumvlc]: http://forum.subsonic.org/forum/viewtopic.php?f=8&t=8674
+[subforumvlc]: http://forum.subsonic.org/forum/viewtopic.php?f=8&t=8674.
