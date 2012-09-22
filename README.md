@@ -17,17 +17,22 @@ Browser, displaying the subsonic web interface
 
 VLC media player, on the device playing music
 - Tested with versions 0.8.1, 0.9, 1.0.x
-- Latest versions of VLC (2.0.X) have not yet been tested
+- Newer versions of VLC (1.1.X, 2.0.X) have not yet been tested
 
 # Features
 
 More information [in the Subsonic Mods forum][subforumvlc]
 
-
 # Bugs
+
 - When loading a server playlist or random songs to the VLC player, the player playlist is loaded twice to VLC
 - The breadcrumb links displayed when browsing a collection displays a 'Music' link at the top level : this is broken (subsonic bug?)
 - Volume and start/stop controls are somewhat unstable, yet functional
+
+# Future
+
+- Support newer versions of VLC
+- Port to Subsonic 4.7
 
 [subwebsite]: http://subsonic.org/.
 [subforumvlc]: http://forum.subsonic.org/forum/viewtopic.php?f=8&t=8674.
