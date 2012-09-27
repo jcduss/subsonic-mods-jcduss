@@ -36,3 +36,5 @@ More information [in the Subsonic Mods forum][subforumvlc]
 
 [subwebsite]: http://subsonic.org/.
 [subforumvlc]: http://forum.subsonic.org/forum/viewtopic.php?f=8&t=8674.
+
+Last update : September 27th, 2012
