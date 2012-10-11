@@ -6,7 +6,7 @@ This is the webapp of the [Subsonic Media Streamer][subwebsite], with an added '
 
 This mod is based on version 4.6 of the subsonic webapp.
 
-You will find a deployable subsonic.war file under dist/.
+You will find a deployable subsonic.war file under dist/ or in the downloads section.
 
 # Compatibility
 
@@ -17,11 +17,15 @@ Browser, displaying the subsonic web interface
 
 VLC media player, on the device playing music
 - Tested with versions 0.8.1, 0.9, 1.0.x
-- Newer versions of VLC (1.1.X, 2.0.X) have not yet been tested
+- Newer versions of VLC (1.1.X, 2.0.X) have not been tested
 
 # Features
 
 More information [in the Subsonic Mods forum][subforumvlc]
+
+# Side effects
+
+Some files are actually from version 4.7 and the database schema is upgraded to version 4.7 when booting the first time. *Do not forget to backup your database directory!*
 
 # Bugs
 
@@ -37,4 +41,4 @@ More information [in the Subsonic Mods forum][subforumvlc]
 [subwebsite]: http://subsonic.org/.
 [subforumvlc]: http://forum.subsonic.org/forum/viewtopic.php?f=8&t=8674.
 
-Last update : September 27th, 2012
+Last update : October 10th, 2012
